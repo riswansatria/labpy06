@@ -5,11 +5,12 @@ Kelas : TI.24.A.5 <p>
 Mata Kuliah: Bahasa Pemrograman <p>
 # Program Input Nilai
 ## Flowchart
+![gambar 3](gmb5.png)
+![gambar 4](gmb6.png)
+## Program Python
 ![gambar 5](gmb1.png)
 ![gambar 6](gmb2.png)
-## Program Python
-![gambar 1](gmb3.png)
-![gambar 2](gmb4.png)
+
 ### Penjelasan Program
 1. Kelas Student:
    - Kelas ini menyimpan informasi tentang mahasiswa, seperti NIM, nama, nilai tugas, UTS, dan UAS.
@@ -29,5 +30,6 @@ Mata Kuliah: Bahasa Pemrograman <p>
      - h: Menghapus data mahasiswa berdasarkan Nama.
      - k: Keluar dari program.
 ## Hasil Program
-![gambar 3](gmb5.png)
-![gambar 4](gmb6.png)
+![gambar 1](gmb3.png)
+![gambar 2](gmb4.png)
+
