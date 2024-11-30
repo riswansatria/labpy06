@@ -6,7 +6,6 @@ Mata Kuliah: Bahasa Pemrograman <p>
 # Program Input Nilai
 ## Flowchart
 ![gambar 3](gmb5.png)
-![gambar 4](gmb6.png)
 ## Program Python
 ![gambar 5](gmb1.png)
 ![gambar 6](gmb2.png)
